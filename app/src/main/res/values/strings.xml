@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SignUp</string>
+    <string name="signup_title">Sign Up</string>
+    <string name="username_hint">Username</string>
+    <string name="fullname_hint">Full Name</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="agree_terms">Agree with Terms &amp; Conditions</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="empty_fields_error">All fields are required!</string>
+    <string name="terms_error">Please agree to Terms &amp; Conditions</string>
+    <string name="signup_success">Sign-Up Successful!</string>
+</resources>
